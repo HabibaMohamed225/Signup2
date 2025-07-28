@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # signup
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # SignUp
 >>>>>>> dd45baf705598536f1ca83c8841b1d90d8225738
+=======
+# Signup2
+>>>>>>> feb106ad95acb9be091fc87a07acd325e9b60560
